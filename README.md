@@ -2,7 +2,7 @@
 # ITELEC2 Week 1 Activity
 
 **Name:** Nathaniel Aaron A. Tapar  
-**Section:** YOUR SECTION
+**Section:** 3.5 BSIT
 
 ## Programs
 
